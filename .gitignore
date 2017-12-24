@@ -23,6 +23,13 @@ ExportedObj/
 *.svd
 *.pdb
 
+# Exceptions
+!/src/api/*/*.sln
+!/src/api/*/*.csproj
+!/src/api/*/*/*.csproj
+!/src/unity/Shifty-Unity-Minimal-Example/Assets/VirtualObjects/*.obj
+!/3d-prints/*.obj
+
 # Unity3D generated meta files
 *.pidb.meta
 

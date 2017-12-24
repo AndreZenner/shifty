@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# shifty
+Everything you need to build your own Shifty - A Weight-Shifting Dynamic Passiv Haptic Proxy for Virtual Reality Interaction!
 
-You can use the [editor on GitHub](https://github.com/AndreZenner/shifty/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## How-To
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Setup the Arduino
+Anleitung
 
-### Markdown
+Ziel: ESP8266 WiFi Modul auf Firmware 0.9.0.2 (SDK) und damit AT version 0.18 flashen (funktioniert mit WeeESP8266 Arduino Library)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Modul:
+http://rayshobby.net/first-impression-on-the-esp8266-serial-to-wifi-module/
 
-```markdown
-Syntax highlighted code block
+Firmware (click V0.9.2.4):
+http://wiki.fablab-nuernberg.de/w/Ding:ESP8266#Firmware
 
-# Header 1
-## Header 2
-### Header 3
+esptool:
+https://github.com/themadinventor/esptool
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreZenner/shifty/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Video:
+https://www.youtube.com/watch?v=PycRnjcXMRI
