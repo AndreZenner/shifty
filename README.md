@@ -1,5 +1,5 @@
 # Shifty
-This repository allows you to build your own **Shifty** - a weight-shifting dynamic passiv haptic proxy for virtual reality interaction!
+This repository allows you to build your own **Shifty** - a weight-shifting dynamic passiv haptic proxy for virtual reality!
 
 ![Image of the Shifty prototype](pics/shifty-2.jpg "The Shifty prototype")
 
@@ -83,7 +83,7 @@ Having all required parts ready, you can build the prototype:
 #### Step 2: Weight, Belt
 1. Print the weight hull two times with a 3D printer
 2. Fill both halves with the lead granulate <p><img src="pics/weight.jpg" alt="pulley fixed" width="500"></p>
-3. Measure the distance between the big pulley on the motor and the small pulley on the top end of the pipe to determine the length of the belt. Then cut the belt. <img src="pics/belt.jpg" alt="belt" width="500">
+3. Measure the distance between the big pulley on the motor and the small pulley on the top end of the pipe to determine the length of the belt. Then cut the belt. <p><img src="pics/belt.jpg" alt="belt" width="500"></p>
 4. Insert the bearings as weight-wheels and fix the two weight halves. Then attach the belt on the weight. <img src="pics/bearings.jpg" alt="bearings" width="500"> <img src="pics/weight-belt.jpg" alt="assembled weight attached to belt" width="500">
 
 #### Step 3: Button
