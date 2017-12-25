@@ -120,5 +120,5 @@ Authors of the [paper](https://doi.org/10.1109/TVCG.2017.2656978 "Shifty @ IEEE 
 **Prof. Dr. Antonio Krüger** - krueger@dfki.de
 
 This work was supported by the [Deutsches Forschungszentrum für Künstliche Intelligenz GmbH](https://www.dfki.de/) (DFKI; German Research Center for Artificial Intelligence) and [Saarland University](https://www.uni-saarland.de/).
-<img src="pics/dfki-logo.jpg" alt="DFKI Logo" width="250">
-<img src="pics/uds-logo.png" alt="Saarland University Logo" width="250">
+<p><img src="pics/dfki-logo.jpg" alt="DFKI Logo" width="250"></p>
+<p><img src="pics/uds-logo.png" alt="Saarland University Logo" width="250"></p>
