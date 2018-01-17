@@ -105,6 +105,13 @@ Having all required parts ready, you can build the prototype:
 5. If everything works, take a backpack and insert the battery and the electronics with the box, just leaving a cable connection to Shifty. Wearing the backback, you can use Shifty even in room-scale VR experiences. <img src="pics/complete-backpack.jpg" alt="complete Shifty prototype with backpack" width="500">
 6. Finally, 3D print the Vive Tracker mount and place the tracker on Shifty to easily track it while in VR.
 
+#### Step 6: Useful Addons
+<img src="pics/addons.jpg" alt="3D printed addons" width="500">
+1. For better balance and more ergonomic placement of the Vive tracker, 3D print the grip mount and fix it at the grip end with a cable tie. Screw the Vive tracker with a camera screw.
+<img src="pics/grip-plug.jpg" alt="the grip mount for the Vive tracker" width="500">
+2. As the motor can become very hot, you should use a heat shield to prevent burning your hand when touching the motor while in VR. For this, you can 3D print the heat shield file and fix it on the motor with additional cable ties.
+<img src="pics/heat-shield.jpg" alt="heat shield mounted on the motor" width="500">
+
 ### Controlling Shifty
 Use the [ProxyControlAPI](src/api/) to connect to Shifty, to pass commands and to read the button states.
 The library currently builds a .dll file containing the API functions.
