@@ -12,6 +12,21 @@ For more information on its haptic effect, the scientific background and user st
 Shifty was presented at the [IEEE Virtual Reality Conference 2017 in Los Angeles](https://youtu.be/Tzx6ZOIjLhY "Watch the talk!").
 To get a first impression, the [corresponding video](https://youtu.be/1l0wKk6q_ss "Watch the video!") is probably a good starting point.
 
+## Reference
+```
+@article{Zenner:2017:Shifty,
+  title={Shifty: A Weight-Shifting Dynamic Passive Haptic Proxy to Enhance Object Perception in Virtual Reality},
+  author={Zenner, Andr{\'e} and Kr{\"u}ger, Antonio},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  volume={23},
+  number={4},
+  pages={1285--1294},
+  year={2017},
+  publisher={IEEE},
+  doi={10.1109/TVCG.2017.2656978}
+}
+```
+
 ## Contents
 This repository contains the files, source code and information you need to make your own Shifty prototype.
 
